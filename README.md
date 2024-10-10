@@ -22,4 +22,6 @@ A simple and efficient invoice generator built using React.js, with a fully Dock
 Before running this project, make sure you have the following installed:
 
 - [Node.js](https://nodejs.org/)
+- [Docker](https://www.docker.com/)
+
 
