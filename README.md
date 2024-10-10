@@ -1,6 +1,8 @@
 # Invoice Generator
 
 A simple and efficient invoice generator built using React.js, with a fully Dockerized environment for easy deployment. The application allows users to create, manage, and download invoices.
+![image](https://github.com/user-attachments/assets/61ac9088-79da-4115-afed-62e4cefbe63f)
+
 
 ## Features
 
